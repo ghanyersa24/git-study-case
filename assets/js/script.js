@@ -1,0 +1,1 @@
+const nama = "Muhammad Kifahi Al Tsaqofy"
