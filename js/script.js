@@ -1,1 +1,1 @@
-const bootcamp = "Full-stack Javascript";
+const nama = "Ari Pranoto";
